@@ -28,6 +28,9 @@ const LoginPage = () => {
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center',
+      '& >:nth-child(2)': {
+        marginTop: '30px',
+      },
       padding: '60px 60px',
       borderRadius: '50%',
       boxShadow: '0 5px 10px rgba(0,0,0,.5),0 5px 10px rgba(0,0,0,.5)',
