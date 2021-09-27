@@ -68,7 +68,7 @@ const HeaderComponent = () => {
               icon={
                 <span className={styles.wrapper}>
                   <Home />
-                  <label>Home</label>
+                  <label>Shop</label>
                 </span>
               }
               // label='Home'
